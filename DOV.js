@@ -29,10 +29,9 @@ const CHINESE_NUM_MAP = {
 };
 
 WidgetMetadata = {
-  id: "vod_realmom",
+  id: "vod_realmom_vod",
   title: "VOD 播放源",
-  icon: "https://raw.githubusercontent.com/MakkaPakka518/FW/refs/heads/main/widgets/tubiao/makka.png",
-  version: "1.0.3",
+  version: "1.2.0",
   requiredVersion: "0.0.1",
   description: "获取VOD播放资源(内含21个VOD源)",
   author: "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
